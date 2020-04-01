@@ -29,3 +29,11 @@ MANY other formatting options available (leading zeros, precision, base, etc).  
 
 
 # scanf
+
+# functions & variables:  define before you use.
+
+# argc, argv
+
+# bigger projects
+## static vs extern
+
